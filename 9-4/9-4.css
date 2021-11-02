@@ -1,0 +1,29 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.box3, .box2, .box1 {
+  width: 200px;
+  height: 200px;
+  background: blue;
+  display: inline-block;
+}
+
+.box1 {
+  background: red;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 50px;
+}
+
+.box1 {
+  background: red;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 50pbe;
+}
+
+/*# sourceMappingURL=9-4.css.map */
